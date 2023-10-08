@@ -27,7 +27,7 @@ The user input will show up on the page when refreshed.
 ![Alt text](image-4.png)
 
 **Languages**
-HTML, CSS, JavaScript. jQuery.
+HTML, CSS, JavaScript. jQuery, Bootstraps, GoogleFonts, & Dayjs 
 
 **Credits**
 Edited by Kai Gurung-Doll; https://github.com/KaiDoll.
